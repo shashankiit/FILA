@@ -2,7 +2,7 @@
 
 Problem statement can be found at :
 
-https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2021/pa-2/programming-assignment-2.html
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2021/pa-3/programming-assignment-3.html
 
 Task 1
 
