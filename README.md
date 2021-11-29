@@ -1,4 +1,4 @@
 # FILA
-Assignments for CS 747
+Assignments for course CS 747 offered at IIT Bombay
 
-Three assignments cover multibandit problems, MDP planning and practical reinforcement learning
+These three assignments cover multibandit problems, MDP planning and practical reinforcement learning
